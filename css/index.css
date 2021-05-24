@@ -1,6 +1,6 @@
 body{
-    margin: 0;
-    padding: 0%;
+    margin:0;
+    padding:0;
     background: #bac1b8;
 }
 
@@ -10,4 +10,16 @@ body{
     background: #0c7c59;
 }
 
-.name .datos
+.name .datos{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: ;
+    right: ;
+    top: ;
+    bottom: ;
+}
+.name .datos .tit{
+color: white;
+font-family: 'Padauk', sans-seri
+}
