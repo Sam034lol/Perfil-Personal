@@ -14,12 +14,22 @@ body{
     width: 50%;
     height: 50%;
     position: absolute;
-    left: ;
-    right: ;
-    top: ;
-    bottom: ;
+   
 }
-.name .datos .tit{
+
+.name .datos .names{
 color: white;
+position: absolute;
+left: 25%;
+font-size: 45px;
 font-family: 'Padauk', sans-seri
+
 }
+.name .datos .apellidos{
+    color: white;
+    position: absolute;
+    left: 25%;
+    font-size: 45px;
+    bottom: 2px;
+    font-family: 'Padauk', sans-seri
+ }
